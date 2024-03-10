@@ -1,0 +1,15 @@
+/template/flake.lock
+result*
+/.direnv/
+/.pre-commit-config.yaml
+
+.ipynb_checkpoints/
+*.ipynb
+
+# generated folder of jupyter distribution
+/jupyterlab/
+.jupyter/
+/template/flake.lock
+
+# mkdocs
+site/
